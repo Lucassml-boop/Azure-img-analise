@@ -1,6 +1,6 @@
 # 🔍 Análise de Imagens com Imagens com IA Generativa  
 
-Este repositório contém um experimento utilizando o **Microsoft Copilot** para análise e descrição de imagens. O objetivo foi testar a capacidade da IA em reconhecer padrões visuais e gerar descrições detalhadas das imagens analisadas.  
+Este repositório contém um experimento utilizando o **Inteligência Artificial Generativa** para análise e descrição de imagens. O objetivo foi testar a capacidade da IA em reconhecer padrões visuais e gerar descrições detalhadas das imagens analisadas.  
 
 ## 📸 Imagens Utilizadas  
 
